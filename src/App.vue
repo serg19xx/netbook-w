@@ -5,6 +5,7 @@ const value = ref('')
 </script>
 
 <template>
+  <h1>TEST GIT</h1>
   <div class="text-3xl text-green-400 font-bold underline">IT SERG K</div>
 
   <div class="card flex justify-center">
